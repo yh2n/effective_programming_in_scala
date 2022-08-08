@@ -1880,3 +1880,25 @@ def house(facade: Double, window: Double): Double = {
 2022.08.06 16:02:54 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.41s[0m
 2022.08.06 16:06:28 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.73s[0m
 2022.08.06 16:29:49 INFO  time: evaluated worksheet 'example.worksheet.sc' in 0.58s[0m
+Aug 06, 2022 5:16:46 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2487
+2022.08.07 14:45:54 INFO  time: evaluated worksheet 'example.worksheet.sc' in 6.61s[0m
+2022.08.07 14:46:16 INFO  time: evaluated worksheet 'example.worksheet.sc' in 1.12s[0m
+Aug 07, 2022 8:39:14 PM org.eclipse.lsp4j.jsonrpc.RemoteEndpoint handleCancellation
+WARNING: Unmatched cancel notification for request id 2567
+2022.08.07 21:51:49 INFO  time: code lens generation in 3.34s[0m
+2022.08.07 21:56:09 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/project/CourseraStudent.scala[0m
+2022.08.07 21:56:12 INFO  time: code lens generation in 1.15s[0m
+2022.08.07 21:56:12 INFO  time: code lens generation in 1.15s[0m
+2022.08.07 21:56:27 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/src/main/scala/fireworks/Fireworks.scala[0m
+2022.08.07 21:56:38 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/src/main/scala/fireworks/FireworksRunner.scala[0m
+2022.08.07 21:57:05 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/assignment.sbt[0m
+2022.08.07 21:57:12 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/build.sbt[0m
+2022.08.07 21:57:21 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/project/buildSettings.sbt[0m
+2022.08.07 21:57:22 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/project/CourseraStudent.scala[0m
+2022.08.07 21:58:09 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/project/MOOCSettings.scala[0m
+2022.08.07 21:58:15 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/project/StudentTasks.scala[0m
+2022.08.07 21:58:25 WARN  no build target for: /Users/yohann/Desktop/projects/effective_programming_in_scala/week_1/fireworks/src/main/scala/fireworks/Fireworks.scala[0m
+2022.08.08 01:05:23 INFO  time: code lens generation in 1.84s[0m
+2022.08.08 01:05:23 INFO  time: code lens generation in 1.84s[0m
+2022.08.08 11:38:20 INFO  time: code lens generation in 1.6s[0m

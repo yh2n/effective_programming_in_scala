@@ -1,1 +1,1 @@
-## Examples,practice, and notes from `Effective Prograamming in Scala` Coursera curriculum
+#### Examples, practice, notes, and assignments from the `Effective Programming in Scala` course
